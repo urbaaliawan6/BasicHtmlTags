@@ -1,0 +1,12 @@
+<!Doctype html>
+<html>
+<head>
+<title> INU File
+</title>
+</head>
+<body>
+<h1 style="font-family:Times New Roman;"> Basics</h1>
+<h2 style="font-size:400% ;" style ="color:red;" style="font-family:Times New Roman;"> Introduction</h2>
+<h3 style="text-align:right;"> Background</h3>
+</body>
+</html>

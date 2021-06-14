@@ -1,0 +1,36 @@
+<!Doctype html>
+<html>
+<head>
+<title> Html Code
+</title>
+</head>
+
+<body style="background-color:gray;">
+<!--Heading-->
+<h1 style="text-aling:center;">Generation of Computers</h1>
+
+<h2 style="color:white; font-size:400%; font-family:Constantia;">First Generation of Computer</h2>
+<p>The period of first generation was from 1946-1959.</p>
+
+<h3 style="color:pink; font-size:350%; font-family:Copperplate Gothic;">Second Generation of Computer</h3>
+<p>The period of second generation was from 1959-1965. </p>
+
+<h4 style="color:pink; font-size:300%; font-family:Footlight MT;">Third Generation of Computer</h4>
+<p>The period of third generation was from 1965-1971.</p>
+
+<a href="https://www.google.com/"> <img src="C:\Users\USER.DESKTOP-3V4Q8M9.000\Desktop\Urba\computer.jpg" 
+  alt="computer.jpg weight="200" height="200">
+</a>
+<!--This is a comment. Comments are not displayed in the browser-->
+<p>This is a paragraph.</p>
+
+<p>These <ins>sentences</ins> include <sub>follow-up information</sub> to <sup>your key sentence</sup> 
+or previous paragraph. <b>Whatever idea you aim to convey,</b>
+these sentences are where you <strong>convince your reader</strong> to <i>believe or envision</i> what you do, 
+and <em>give them everything</em> they <mark>need to see your point of view</mark>This <small>next paragraph 
+can continue on the same idea,</small> but the ending of each paragraph should briefly summarize 
+the <del>information that was provided before moving on.</del>
+</p>
+</body>
+</html>
+

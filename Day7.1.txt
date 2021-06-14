@@ -1,0 +1,14 @@
+<!Doctype html>
+<html>
+<head>
+<title> Day7-1
+</title>
+</head>
+<body>
+
+<video width="320"height="300" controls>
+<source src="C:\Users\USER.DESKTOP-3V4Q8M9.000\Desktop\Files\What is HTML.mp4"> type="video/mp4">
+
+</video>
+</body>
+</html>

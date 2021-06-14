@@ -1,0 +1,13 @@
+<!Doctype html>
+<html>
+<head>
+<title>Day8-1
+</title>
+</head>
+<body>
+<pre>Text in a pre element 
+is displayed in a fixed width font 
+and is preserves
+both   spaces and line break.</pre>
+</body>
+</html>

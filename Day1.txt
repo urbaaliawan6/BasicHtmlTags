@@ -1,0 +1,24 @@
+<!Doctype html>
+<html>
+<head>
+<title> Work File
+</title>
+</head>
+<body>
+
+<h1 > Name </h1>
+<h2> F.Name</h2>
+<h3> Class </h3>
+<h4> Ph.no </h4>
+<h5> Age </h5>
+<h6> CNIC </h6>
+
+<p> MY First Work. </p>
+<a href="https://www.youtube.com/">
+Youtube
+</a>
+<img src="C:\Users\USER.DESKTOP-3V4Q8M9.000\Desktop\Urba\redrose.jpg" alt="redrose" weight="200" height="200">
+</img>
+
+</body>
+</html>

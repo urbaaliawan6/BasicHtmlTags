@@ -1,0 +1,27 @@
+<!Doctype html>
+<html>
+<head>
+<title>History of Computers
+</title>
+</head>
+<body style="background-color:gray;">
+
+<h1> Generation of Computer</h1>
+<h3> First Generation </h3>
+<p>The period of first generation was from 1946-1959. </p>
+
+<h3> Second Generation </h3>
+<p>A transistor computer, now often called a second generation computer.</p>
+
+<h3> Third Generation </h3>
+<p> The period of third generation was from 1965-1971. </p>
+
+<h2> Sources </h2>
+<a href="https://www.google.com/">
+Google
+</a>
+<img src="C:\Users\USER.DESKTOP-3V4Q8M9.000\Desktop\Urba\computer.jpg" alt="computer.jpg" weight="50" height="50">
+</img>
+
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!Doctype html>
+<<html>
+<head>
+<title>Day 6
+</title>
+</head>
+<body>
+<h1>Fruits List</h1>
+<ul>
+<li>Mango</li>
+<li>Apple</li>
+<li>Grapes</li>
+<li>Banana</li>
+<li>Water Melon</li>
+<li>Peach</li>
+<li>Orange</li>
+<li>Cherry</li>
+<li>Apricot</li>
+<li>Pear</li>
+<li>Kiwi</li>
+</ul>
+
+<h1>Glossary List</h1>
+<ol>
+
+<li>Potato</li>
+<li>Tomato</li>
+<li>Eggplant</li>
+<li>Green Paper</li>
+<li>Corn</li>
+<li>Carrot</li>
+<li>Mushroom</li>
+<li>Radish</li>
+<li>Broccoli</li>
+<li>Cauliflower</li>
+
+</ol>
+</body>
+<html>
