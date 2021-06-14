@@ -5,6 +5,7 @@
 </title>
 </head>
 <body>
+<h1 style="color:red;">
 <marquee><p>***Latest News is here***</p></marquee>
 </body>
 </html>
