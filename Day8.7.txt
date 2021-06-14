@@ -1,0 +1,15 @@
+<!Doctype html>
+<html>
+<head>
+<title>Escape Sequence 
+</title>
+</head>
+<body>
+
+<!--Escape Sequence-->
+<p>This is greater then sign &git;</p>
+<p>This is less then sign &git;</p>
+<p>This is apostrph sign 'apos;</p>
+<p>This is quotations sign "quot;</p> 
+</body>
+</html>

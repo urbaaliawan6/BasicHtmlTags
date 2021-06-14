@@ -1,0 +1,10 @@
+<!Doctype html>
+<html>
+<head>
+<title>Day8-3 
+</title>
+</head>
+<body>
+<marque><p>***Latest News is here***</p></marque>
+</body>
+</html>

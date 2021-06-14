@@ -1,0 +1,20 @@
+<!Doctype html>
+<html>
+<head>
+<title>cite</title>
+</head>
+<body>
+<p>I will display &#169; </p>
+<p>I will display &#174; </p>
+<p>I will display &#836; </p>
+<p>I will display &#8428;</p>
+<p>I will display &#8592; </p>
+<p>I will display &#8593; </p>
+<p>I will display &#8594; </p>
+<p>I will display &#8595; </p>
+<p>I will display &#9834; </p>
+<p>I will display &#9825; </p>
+<p>I will display &#9829; </p>
+<p>I will display &#9829; </p>
+</body>
+</html>

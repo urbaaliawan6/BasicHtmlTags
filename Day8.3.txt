@@ -1,0 +1,13 @@
+<!Doctype html>
+<html>
+<head>
+<title>cite</title>
+</head>
+<body>
+<p>forall &forall;</p>
+<p>part &part;</p>
+<p>exist &exist;</p>
+<p>empty &empty;</p>
+<p>sum &sum;</p>
+</body>
+</html>
