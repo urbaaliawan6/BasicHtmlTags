@@ -1,0 +1,12 @@
+<!Doctype html>
+<html>
+<head>
+<title>Day 8
+</title>
+<body>
+
+<p>H<sub>2</sub>o</p>
+<p>X<sup>3</sup><Y><sup>2</sup>
+
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!Doctype html>
+<html>
+<head>
+<title>Day8-1
+</title>
+</head>
+<body>
+<pre> COUNTRY       DATE OF INDEPENDENCE</pre>
+<pre> -------       --------------------</pre>
+
+<pre>PAKISTAN         1947                       
+INDIA             1947</pre>
+<pre>C H E C K      THIS       O U T</pre>
+<pre> 7 < 18,
+ 8 > 6 &4
+ &eacute;
+ &#971;
+ &euro;</pre>
+
+</body>
+</html>
