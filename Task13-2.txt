@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table{
+border:2px solid green;
+}
+th,td{
+border:2px solid green;
+}
+#orange
+{
+background-color:orange;
+}
+
+</style>
+<title>
+task
+</title>
+</head>
+<body>
+<table>
+<tr>
+<th id="orange">Sr.No</th>
+<th id="orange">Roll No</th>
+<th id="orange">Name</th>
+<th id="orange">Team</th>
+</tr>
+<tr>
+<td id="orange">1</td>
+<td>4568</td>
+<td>Urba</td>
+<td>Pink</td>
+</tr>
+
+<tr>
+<td id="orange">2</td>
+<td>4329</td>
+<td>Ali</td>
+<td>Blue</td>
+</tr>
+
+<tr>
+<td id="orange">3</td>
+<td>8101</td>
+<td>Tahir</td>
+<td>White</td>
+</tr>
+</table>
+</body>
+</html>

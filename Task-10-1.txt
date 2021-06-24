@@ -1,0 +1,44 @@
+<!Doctype html>
+<html>
+<head><title>Tables</title></head>
+<style>
+table{
+border:1px solid black;
+border-collapse:collapse;
+}
+tr{
+color:#0000ff;
+border:1px solid black;
+}
+td{
+border-0px;
+}
+th{
+background-color:#0000ff;
+color:white;
+}
+</style>
+<head>
+<body>
+<table>
+<tr>
+<th>Name</th>
+<th>Father Name</th>
+<th>CNIC</th>
+</tr>
+<td>Ali Khan</td>
+<td>Hubaib Khan</td>
+<td>17394-8374746-2</td>
+<tr>
+<td>Ahmed Khan</td>
+<td>Umar Khan</td>
+<td>17394-8374746-2</td>
+</tr>
+<tr>
+<td>Mohsin Khan</td>
+<td>Ali Khan</td>
+<td>17394-8374746-2</td>
+</tr>
+</table>
+</body>
+</html>
